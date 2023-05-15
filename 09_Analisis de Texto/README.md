@@ -2,12 +2,12 @@
 
 Crea un programa que analice texto y obtenga:
 
-* [ ] Número total de palabras.
+* [x] Número total de palabras.
 
-* [ ] Longitud media de las palabras.
+* [x] Longitud media de las palabras.
 
-* [ ] Número de oraciones del texto (cada vez que aparecen un punto).
+* [x] Número de oraciones del texto (cada vez que aparecen un punto).
 
-* [ ] Encuentre la palabra más larga.
+* [x] Encuentre la palabra más larga.
 
-* [ ] Todo esto utilizando un único bucle.
+* [x] Todo esto utilizando un único bucle.
